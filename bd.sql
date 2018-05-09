@@ -1,3 +1,5 @@
+CREATE DATABASE demo_user;
+
 USE demo_user;
 drop table userdata;
 CREATE TABLE userdata
